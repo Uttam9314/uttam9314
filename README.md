@@ -27,8 +27,8 @@
 | # | Title | Venue | Status |
 |---|-------|-------|--------|
 | 1 | **EdgeGuard: Lightweight AI-Driven IDS for Real-Time Cyberattack Mitigation on Edge Devices** | IEEE AIML Applications Conference | **Published (IEEE)**<br><sub>DOI: [10.1109/AIMLA67915.2026.11522334](https://doi.org/10.1109/AIMLA67915.2026.11522334)</sub> |
-| 2 | **Multi-Environment Evaluation of Edge-Based LoRa Communication for Real-World IoT Deployments** | IEEE International Conference on Instrumentation | **Accepted (IEEE)** |
-| 3 | **AI-Driven Blood Group Detection from Fingerprints: Deep Learning with Quantised Edge Inference on IoT Hardware** | 4th IEEE Intl. Conf. on Ambient Intelligence in Health Care (ICAIHC 2026) | **Under Review** |
+| 2 | **Multi-Environment Evaluation of Edge-Based LoRa Communication for Real-World IoT Deployments** | IEEE International Conference on Instrumentation | **Published(IEEE)**<br> <sub>DOI: [10.1109/INSTCon69741.2026.11691699](https://doi.org/10.1109/INSTCon69741.2026.11691699)</sub> |
+
 
 ---
 
