@@ -22,12 +22,13 @@
 
 ## 📄 Publications & Research Output
 
-> **3 Papers Accepted / Published / Under Review across IEEE Conferences**
+> **1 Papers Accepted / 2 Published / **
 
 | # | Title | Venue | Status |
 |---|-------|-------|--------|
 | 1 | **EdgeGuard: Lightweight AI-Driven IDS for Real-Time Cyberattack Mitigation on Edge Devices** | IEEE AIML Applications Conference | **Published (IEEE)**<br><sub>DOI: [10.1109/AIMLA67915.2026.11522334](https://doi.org/10.1109/AIMLA67915.2026.11522334)</sub> |
 | 2 | **Multi-Environment Evaluation of Edge-Based LoRa Communication for Real-World IoT Deployments** | IEEE International Conference on Instrumentation | **Published(IEEE)**<br> <sub>DOI: [10.1109/INSTCon69741.2026.11691699](https://doi.org/10.1109/INSTCon69741.2026.11691699)</sub> |
+| 3 | **Beyond Performance: Evaluating LLM Explanations and Errors in CrowdRE Requirement Classification** | Proceedings of the 20th Innovations in Software Engineering Conference (ISEC 2027) | **Accepted (ISEC 2027)** |
 
 
 ---
